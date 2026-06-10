@@ -34,6 +34,7 @@ This project analyzes retail sales data using Python and Power BI to uncover ins
 - Explored age-related purchasing behavior.
 
 ## Files
+-`reatil_sales-dataset.csv` - Raw Dataset 
 - `project2.ipynb` - Python analysis notebook
 - `Retail_Sales_Dashboard.pbix` - Power BI dashboard
 - `retail_sales_dataset.csv` - Dataset
